@@ -14,3 +14,6 @@
 ##              **_Creado por Ing. Wilhelm Jesus Martinez Patiño_**
 
 #                       **_Con Ayuda de VM LINK_**
+
+
+console.log('Hola Escuela')
