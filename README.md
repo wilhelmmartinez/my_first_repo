@@ -10,5 +10,6 @@
         
 ##        **_Escuela de JavaScript_**'
 
-var     name = "escuela de JavaScript"
-        console.log(name)
+##              **_Creado por Ing. Wilhelm Jesus Martinez Patiño_**
+
+#                       **_Con Ayuda de VM LINK_**
