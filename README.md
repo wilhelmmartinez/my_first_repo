@@ -10,6 +10,5 @@
         
 ##        **_Escuela de JavaScript_**'
 
-
-                        var name ='Escuela de JavaSrcipt"
-                        console.log(name)
+var     name = "escuela de JavaScript"
+console.log(name)
