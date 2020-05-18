@@ -7,4 +7,4 @@
 **_esto es impresionante_**
 
 >**_Creando README desde Cero_**
-var name = '##**_Escuela de JavaScript_**'
+    ##**_Escuela de JavaScript_**'
