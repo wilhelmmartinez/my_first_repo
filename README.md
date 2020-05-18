@@ -16,4 +16,3 @@
 #                       **_Con Ayuda de VM LINK_**
 
 
-        console.log('Hola Escuela')
